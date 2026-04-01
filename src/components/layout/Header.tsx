@@ -4,9 +4,9 @@ const navLinks = [
   { href: "/cones/109mm", label: "109mm Cones" },
   { href: "/cones/84mm", label: "84mm Cones" },
   { href: "/cones/whitelabel", label: "Custom Branding" },
+  { href: "/configurator", label: "Configurator" },
   { href: "/compare/109mm-vs-84mm", label: "Compare" },
   { href: "/samples", label: "Samples" },
-  { href: "/about", label: "About" },
 ];
 
 export function Header() {
