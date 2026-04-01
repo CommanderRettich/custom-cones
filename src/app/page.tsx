@@ -171,8 +171,14 @@ export default function HomePage() {
               <h3 className="text-lg font-bold">Germany</h3>
               <p className="mt-2 text-sm text-neutral-500">
                 Legal since April 2024. 84 million consumers. EU-quality cones
-                with no import duties.
+                with no import duties. Social Clubs ordering Hybrid Filters and
+                Natural Brown paper for their craft pre-roll lines.
               </p>
+              <div className="mt-3 flex flex-wrap gap-2">
+                <span className="rounded-full bg-neutral-800 px-2 py-0.5 text-[10px] text-neutral-400">Hybrid Filters</span>
+                <span className="rounded-full bg-neutral-800 px-2 py-0.5 text-[10px] text-neutral-400">Natural Paper</span>
+                <span className="rounded-full bg-neutral-800 px-2 py-0.5 text-[10px] text-neutral-400">2-4 day EU delivery</span>
+              </div>
             </Link>
             <Link
               href="/markets/usa/california"
@@ -182,8 +188,14 @@ export default function HomePage() {
               <h3 className="text-lg font-bold">California</h3>
               <p className="mt-2 text-sm text-neutral-500">
                 World&rsquo;s largest cannabis market. $240M+ monthly pre-roll
-                sales. European quality at competitive pricing.
+                sales. Brands switching from RAW to European-manufactured cones
+                for better quality control and custom branding options.
               </p>
+              <div className="mt-3 flex flex-wrap gap-2">
+                <span className="rounded-full bg-neutral-800 px-2 py-0.5 text-[10px] text-neutral-400">RAW Alternative</span>
+                <span className="rounded-full bg-neutral-800 px-2 py-0.5 text-[10px] text-neutral-400">Phase III Compliant</span>
+                <span className="rounded-full bg-neutral-800 px-2 py-0.5 text-[10px] text-neutral-400">Custom Branding</span>
+              </div>
             </Link>
           </div>
         </div>

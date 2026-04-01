@@ -30,10 +30,12 @@ export default function AboutPage() {
         <section className="space-y-4 text-neutral-700 leading-relaxed">
           <h2 className="text-2xl font-bold">Our Story</h2>
           <p>
-            In 1994, from a production facility in Rotterdam, Netherlands,
-            Vandenberg Special Products developed a way to industrially
-            manufacture pre-rolled cones — paper tubes perfectly shaped for
-            filling, with an integrated filter tip and consistent geometry.
+            In 1994, two brothers in Rotterdam saw something nobody else did:
+            rolling a perfect cone by hand is a skill, but manufacturing one at
+            scale is engineering. They founded Vandenberg Special Products B.V.
+            and developed the first industrially manufactured pre-rolled cone —
+            paper tubes perfectly shaped for filling, with an integrated filter
+            tip and consistent geometry.
           </p>
           <p>
             At the time, the concept was ahead of its market. Rolling papers
@@ -42,11 +44,19 @@ export default function AboutPage() {
             efficient, high-quality cone production at scale.
           </p>
           <p>
-            Over the next three decades, as cannabis legalization spread from
-            the Netherlands to North America to the rest of Europe, the
-            pre-rolled cone became the backbone of a multi-billion dollar
-            industry. And at its foundation was — and remains — the technology
-            developed in Rotterdam in 1994.
+            Today, the company is headquartered in Rotterdam with its central
+            warehouse and logistics hub right there in the Netherlands. Production
+            happens in Indonesia — combining European quality control and
+            R&amp;D with large-scale manufacturing capacity. Every batch is
+            tested and certified before it reaches the Rotterdam warehouse for
+            distribution across Europe and worldwide.
+          </p>
+          <p>
+            Over three decades, as cannabis legalization spread from the
+            Netherlands to North America to the rest of Europe, the pre-rolled
+            cone became the backbone of a multi-billion dollar industry. And at
+            its foundation was — and remains — the technology the Vandenberg
+            brothers developed in Rotterdam in 1994.
           </p>
         </section>
 
