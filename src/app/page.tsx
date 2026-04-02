@@ -1,3 +1,4 @@
+import Image from "next/image";
 import Link from "next/link";
 import type { Metadata } from "next";
 
@@ -197,6 +198,31 @@ export default function HomePage() {
                 <span className="rounded-full bg-neutral-800 px-2 py-0.5 text-[10px] text-neutral-400">Custom Branding</span>
               </div>
             </Link>
+          </div>
+        </div>
+      </section>
+
+      {/* Partners */}
+      <section className="border-y border-neutral-100 bg-neutral-50">
+        <div className="mx-auto max-w-7xl px-4 py-12">
+          <p className="mb-8 text-center text-sm font-semibold tracking-widest text-neutral-400">
+            OUR PARTNERS
+          </p>
+          <div className="flex flex-wrap items-center justify-center gap-12">
+            <Image
+              src="/logos/the-original-cones.png"
+              alt="The Original Cones by Mountain High"
+              width={200}
+              height={140}
+              className="h-16 w-auto object-contain"
+            />
+            <Image
+              src="/logos/raw-classic.png"
+              alt="RAW Classic Rolling Papers"
+              width={200}
+              height={100}
+              className="h-12 w-auto object-contain"
+            />
           </div>
         </div>
       </section>
