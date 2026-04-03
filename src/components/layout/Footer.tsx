@@ -47,12 +47,6 @@ export function Footer() {
 
         <div className="mt-8 border-t border-neutral-200 pt-6 text-center text-xs text-neutral-400">
           <p>Vandenberg Special Products B.V. — Rotterdam, NL since 1994</p>
-          <p className="mt-1">
-            Built by{" "}
-            <a href="https://maxmy.business" className="text-neutral-500 underline hover:text-neutral-700" target="_blank" rel="noopener noreferrer">
-              MaxMy.business
-            </a>
-          </p>
         </div>
       </div>
     </footer>
